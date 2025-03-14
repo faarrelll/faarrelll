@@ -2,7 +2,7 @@
 🚀 Passionate IoT & Software Developer | 🌍 Open Source Enthusiast  
 
 ## About Me
-- 🔭 I’m currently working on **Smart Voltage Stabilizer with IoT Monitoring**
+- 🔭 I’m currently working on **Smart Voltage Stabilizer with IoT Monitoring** project
 - 🌱 I’m currently learning **Spring Boot, React, and Advanced Flutter**
 - 💬 Ask me about **IoT, Embedded Systems, and Java Backend Development**
 - 📫 How to reach me: **farrelakbar432@gmail.com**
