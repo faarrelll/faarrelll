@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**faarrelll/faarrelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Hi there, I'm Farrel! 👋  
+🚀 Passionate IoT & Software Developer | 🌍 Open Source Enthusiast  
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on **Smart Voltage Stabilizer with IoT Monitoring**
+- 🌱 I’m currently learning **Spring Boot, React, and Advanced Flutter**
+- 💬 Ask me about **IoT, Embedded Systems, and Java Backend Development**
+- 📫 How to reach me: **farrelakbar432@gmail.com**
+- ⚡ Fun fact: I love **reading** and exploring new technologies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farrel-dev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farrel-dev&theme=tokyonight" />
+</p>
+
+## 🎯 Motivation Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrel-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/farrel](https://www.linkedin.com/in/mfarrel-akbar-firzatullah/))
+[![Email](https://img.shields.io/badge/Email-farrel@example.com-red?style=for-the-badge&logo=gmail)](mailto:farrelakbar432@gmail.com)
+
