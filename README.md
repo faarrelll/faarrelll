@@ -26,6 +26,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrel-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/farrel](https://www.linkedin.com/in/mfarrel-akbar-firzatullah/))
-[![Email](https://img.shields.io/badge/Email-farrel@example.com-red?style=for-the-badge&logo=gmail)](mailto:farrelakbar432@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrel-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/farrel](https://www.linkedin.com/in/mfarrel-akbar-firzatullah/))
+[![Email](https://img.shields.io/badge/Email-farrelakbar432@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:farrelakbar432@gmail.com)
 
