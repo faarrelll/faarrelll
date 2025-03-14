@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<# Hi there, I'm Farrel! 👋  
+# Hi there, I'm Farrel! 👋  
 🚀 Passionate IoT & Software Developer | 🌍 Open Source Enthusiast  
 
 ## About Me
@@ -18,14 +16,14 @@
 
 ## GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farrel-dev&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farrel-dev&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faarrelll&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faarrelll&theme=tokyonight" />
 </p>
 
 ## 🎯 Motivation Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrel-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/farrel](https://www.linkedin.com/in/mfarrel-akbar-firzatullah/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrel-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/farrel](https://www.linkedin.com/in/mfarrel-akbar-firzatullah/)
 [![Email](https://img.shields.io/badge/Email-farrelakbar432@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:farrelakbar432@gmail.com)
 
